@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="210" viewBox="0 0 300 210">
+  <defs>
+    <filter id="tmd_" x="39.5" y="0" width="228" height="187.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-tmd_2">
+      <rect width="300" height="210"/>
+    </clipPath>
+  </defs>
+  <g id="tmd_2" data-name="tmd()" clip-path="url(#clip-tmd_2)">
+    <rect width="300" height="210" fill="#fff"/>
+    <g id="グループ_1" data-name="グループ 1" transform="translate(-735 -423)">
+      <rect id="長方形_1" data-name="長方形 1" width="300" height="210" transform="translate(735 423)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 735, 423)" filter="url(#tmd_)">
+        <text id="tmd_3" data-name="tmd()" transform="translate(45 147)" font-size="147" font-family="Eustache-Regular, Eustache"><tspan x="0" y="0">tmd()</tspan></text>
+      </g>
+      <text id="My_knowledge_for_you" data-name="My knowledge for you" transform="translate(823 603)" font-size="11" font-family="RictyDiminished-Regular, Ricty Diminished"><tspan x="0" y="0">My knowledge </tspan><tspan y="0" fill="#d362db">for</tspan><tspan y="0" xml:space="preserve"> you</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="385" height="311.5" viewBox="0 0 385 311.5">
+  <defs>
+    <filter id="tmd_" x="0" y="0" width="385" height="311.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#tmd_)">
+    <text id="tmd_2" data-name="tmd()" transform="translate(195.5 250)" font-size="250" font-family="Eustache-Regular, Eustache"><tspan x="-187.5" y="0">tmd()</tspan></text>
+  </g>
+</svg>
